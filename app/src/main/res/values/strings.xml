@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Event Venue</string>
+<!--    <string name="google_maps_key">AIzaSyDN0BTe2IVoqfdW1jwyNBvyqCC7xt29O4Q</string>-->
+    <string name="google_maps_key">AIzaSyBh3S0FDlMXwQFNNeX-uZ-yIOUQ7sOWI3c</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoicHJhdGlrMTIxMiIsImEiOiJjbWMyemdob3UwM3pxMmpzYWtneTZ1MHh4In0.KL74YFTL1ganVzAJHhA99g</string>
+
+</resources>
