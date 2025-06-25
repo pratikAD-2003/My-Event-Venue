@@ -30,7 +30,7 @@ With secure Google & Email authentication, responsive Jetpack Compose UI, and of
 ~ Profile editing & refund requests
 ~ Admin event statistics dashboard
 ~ Add, edit, delete event controls
-~ Ticket booking & QR-based ID support (optional)
+~ Ticket booking
 
 💄 UI & UX:
 ~ Jetpack Compose
@@ -46,4 +46,8 @@ Images ~
 ![3](https://github.com/user-attachments/assets/322b6882-c2bc-45e1-aa45-fdc8b1e621aa)
 ![4](https://github.com/user-attachments/assets/5848e2aa-18c4-470e-a83e-c74a72bd7a8a)
 ![5](https://github.com/user-attachments/assets/c4ac446a-79a4-44c8-9058-be82f5fe21c1)
+
+
+
+https://github.com/user-attachments/assets/356dadc7-a349-43cf-93a5-56dc40e4e564
 
